@@ -1,6 +1,6 @@
-# Python Internship Projects
+# Oasis Infobyte Python Internship Projects
 
-This repository contains **beginner-level Python projects** developed as part of my internship learning journey.
+This repository contains **beginner-level Python projects** developed as part of my internship learning journey at oasis infobyte.
 The projects focus on **core Python concepts**, clean logic, and user-friendly console interaction.
 
 ## 📂 Projects Included
@@ -28,12 +28,12 @@ The projects focus on **core Python concepts**, clean logic, and user-friendly c
 - Generates passwords based on user preferences
 - Beginner-friendly implementation
 
-## 🛠️ Technologies Used
+Technologies Used
 - Programming Language: **Python 3**
 - Interface: **Command Line (Console)**
 - Libraries: **Built-in Python modules only**
 
-## ▶️ How to Run the Projects
+How to Run the Projects
 1. Install Python 3 on your system.
 2. Download or clone this repository.
 3. Open terminal or command prompt.
@@ -42,16 +42,12 @@ The projects focus on **core Python concepts**, clean logic, and user-friendly c
 
 Each project folder contains its own README file with detailed instructions.
 
----
-
-## 🎯 Purpose of This Repository
+Purpose of This Repository
 - Practice Python fundamentals
 - Build logical thinking
 - Create internship-ready beginner projects
 - Maintain clean and readable code
 
----
-
-## 👩‍💻 Author
-**Shubhra Bharti**  
-Second Year – Information Technology Student
+Author
+Shubhra Bharti 
+Intern at oasis infobyte(python programming)
