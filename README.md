@@ -1,4 +1,4 @@
-# OIBSIP_PythoN Internship Projects
+# OIBSIP_Python Internship Projects
 
 This repository contains beginner-level Python projects developed as part of my internship learning journey at oasis infobyte.
 The projects focus on **core Python concepts**, clean logic, and user-friendly console interaction.
