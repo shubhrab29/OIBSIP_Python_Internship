@@ -16,6 +16,7 @@ The projects focus on **core Python concepts**, clean logic, and user-friendly c
 - Generates passwords based on user preferences
 - Beginner-friendly implementation
 
+<<<<<<< HEAD
 ### 3. Two User Chat Application
 - Console-based chat system
 - Supports two users
@@ -29,6 +30,9 @@ The projects focus on **core Python concepts**, clean logic, and user-friendly c
 - Uses dictionary-based data storage
 
 ## 🛠️ Technologies Used
+=======
+Technologies Used
+>>>>>>> 252d47d98147b194c62dbd1b6681f4676d643fe7
 - Programming Language: **Python 3**
 - Interface: **Command Line (Console)**
 - Libraries: **Built-in Python modules only**
@@ -42,12 +46,21 @@ How to Run the Projects
 
 Each project folder contains its own README file with detailed instructions.
 
+<<<<<<< HEAD
 🎯 Purpose of This Repository
+=======
+Purpose of This Repository
+>>>>>>> 252d47d98147b194c62dbd1b6681f4676d643fe7
 - Practice Python fundamentals
 - Build logical thinking
 - Create internship-ready beginner projects
 - Maintain clean and readable code
 
 Author
+<<<<<<< HEAD
 Shubhra Bharti
 
+=======
+Shubhra Bharti 
+Intern at oasis infobyte(python programming)
+>>>>>>> 252d47d98147b194c62dbd1b6681f4676d643fe7
